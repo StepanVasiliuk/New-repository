@@ -1,0 +1,7 @@
+*.db
+*.log
+*.pdf
+*.7z
+/target
+/bin
+/someFolderName
